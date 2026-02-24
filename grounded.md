@@ -2,4 +2,4 @@
 
 (Now you'll always be a bum😔)
 
-[restart](ask-permission.md)
+[restart](home.md)
