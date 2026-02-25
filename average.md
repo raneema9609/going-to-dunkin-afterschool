@@ -3,3 +3,5 @@
 (Now you'll always be a bum😔)
 
 [restart](home.md)
+
+[View our plan](README.md)
