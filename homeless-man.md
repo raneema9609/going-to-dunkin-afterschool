@@ -4,3 +4,4 @@
 (why would you even do this 😐)
 
 [come back to life](home.md)
+[View our plan](README.md)
