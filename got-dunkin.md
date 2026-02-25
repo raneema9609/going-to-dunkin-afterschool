@@ -2,3 +2,7 @@
 
 [go home](home.md)
 
+[View our plan](README.md)
+
+
+
