@@ -2,4 +2,6 @@
 
 (Good job you're not a bum😍)
 
-[restart](ask-permission.md)
+[restart](home.md)
+
+[View our plan](README.md)
